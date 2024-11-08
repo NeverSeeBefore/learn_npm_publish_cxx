@@ -8,11 +8,11 @@ export default {
     output: [
         {
             name: 'CacheUtil',
-            file: 'dist/index.umd.js',
+            file: 'dist/index.js',
             format: 'umd',
         },
         {
-            file: 'dist/index.esm.js',
+            file: 'dist/index.mjs',
             format: 'esm',
         }
     ],
