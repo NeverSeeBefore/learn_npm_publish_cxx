@@ -2,7 +2,6 @@
   "name": "learn_npm_publish_cxx",
   "version": "1.0.7",
   "description": "",
-  "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
